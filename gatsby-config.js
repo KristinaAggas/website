@@ -4,7 +4,8 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Emma - Gatsby Starter Portfolio`,
+    siteTitleAlt: `Kristina Aggas - Portfolio`,
+    siteTitle: `Kristina`
   },
   plugins: [
     {
